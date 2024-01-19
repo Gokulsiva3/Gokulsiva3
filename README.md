@@ -1,4 +1,6 @@
-<header></header>
+<header>
+  <img align="center" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
+</header>
 <h1 align="center">Hi 👋, I'm Gokul R</h1>
 <h3 align="center">A passionate Full Stack Developer developer from India</h3>
 <img align="right" alt="code" width="400" src ="https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZnJvbnQlMjBlbmQlMjBkZXZlbG9wZXJ8ZW58MHx8MHx8fDA%3D">
